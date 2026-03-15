@@ -3,7 +3,7 @@
 Building scalable and robust server-side solutions. Currently diving deep into **C# & .NET ecosystem**.
 🛠 Stack: **C# / .NET / ASP.NET Core / Entity Framework**
 - 🗄 Databases: **PostgreSQL / SQL Server**
-- 🔭 Currently building: [Game-Tracker] (https://github.com/zlo-y/Game-Tracker)
+- 🔭 Currently building: [TrustFlow] (https://github.com/zlo-y/TrustFlow)
 - 🌱 Learning: **Microservices, Docker & Cloud Architecture**
 
  
