@@ -1,4 +1,4 @@
-## Hi, I'm Rafael 👋 | Backend Developer (C#)
+## Hi, I'm Rafael 👋 | Backend Developer (C#) , Junior QA in Game
 
 Building scalable and robust server-side solutions. Currently diving deep into **C# & .NET ecosystem**.
 🛠 Stack: **C# / .NET / ASP.NET Core / Entity Framework**
